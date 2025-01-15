@@ -16,7 +16,7 @@ Welcome to the **Secure Docker** repository, a practical and detailed guide on h
 - **Image Optimization**: Using multi-stage builds to create lightweight images.
 
 ### Included Resources
-- A comprehensive guide in PDF format.
+- [Comprehensive Guide (PDF)](./DockerSeguro_JoseBenitez.pdf): A detailed manual on Docker best practices.
 - Example code for Docker configurations.
 - Best practices for securing containerized applications.
 
